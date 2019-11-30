@@ -1,25 +1,25 @@
 ﻿# 安裝
 ### 1. 登录乐高教育网站下载最新wedo2.0软件 [https://education.lego.com/zh-cn/downloads/wedo-2/software](https://education.lego.com/zh-cn/downloads/wedo-2/software)
 
-![Download](/webdo_2.0/webdo_2.0/resource/download.PNG)
+![Download](/webdo_2.0/resource/download.PNG)
 
 <br><br>
 
 ### 2. 下载成功后双击安装文件并开始安装,请选择语言
 
-![Setup](/webdo_2.0/webdo_2.0/resource/setup1.PNG)
+![Setup](/webdo_2.0/resource/setup1.PNG)
 
 <br><br>
 
 ### 3. 接收协议。
 
-![Setup](/webdo_2.0/webdo_2.0/resource/setup2.PNG)
+![Setup](/webdo_2.0/resource/setup2.PNG)
 
 <br><br>
 
 ### 4. 选择安装路径
 
-![Setup](/webdo_2.0/webdo_2.0/resource/setup3.PNG)
+![Setup](/webdo_2.0/resource/setup3.PNG)
 
 <br><br>
 
