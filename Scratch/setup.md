@@ -9,53 +9,53 @@ Scratch 现在已经更新到2.0版了，自更新后，很多同学下载该软
 
 <br><br>
 
-### 3. 先下载安装Adobe AIR
+### 2. 先下载安装Adobe AIR
 
 ![Setup](/Scratch/resource/setup2.PNG)
 
 <br><br>
 
-### 4. 双击下载文件安装
+### 3. 双击下载文件安装
 
 ![Setup](/Scratch/resource/setup3.PNG)
 
 <br><br>
 
-### 5. 选择“我同意”
+### 4. 选择“我同意”
 
 ![Setup](/Scratch/resource/setup4.PNG)
 
 <br><br>
 
-### 6. 点击完成
+### 5. 点击完成
 
 ![Setup](/Scratch/resource/setup5.PNG)
 
 <br><br>
 
-### 7. 下载Scratch
+### 6. 下载Scratch
 
 ![Setup](/Scratch/resource/setup6.PNG)
 
 <br><br>
 
-### 8. 双击文件安装
+### 7. 双击文件安装
 
 ![Setup](/Scratch/resource/setup7.PNG)
 
 <br><br>
 
-### 9. 选择安装位置
+### 8. 选择安装位置
 
 ![Setup](/Scratch/resource/setup8.PNG)
 
 <br><br>
 
-### 10. 安装后打开软件，选择地球按钮然后选择简体中文
+### 9. 安装后打开软件，选择地球按钮然后选择简体中文
 
 ![Setup](/Scratch/resource/setup9.PNG)
 
 <br><br>
 
-### 11. 到此安装完成
+### 10. 到此安装完成
 
