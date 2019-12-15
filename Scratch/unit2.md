@@ -91,3 +91,9 @@
 ### 15. 点击按搜索
 
 ![Download](/Scratch/resource/unit2_10.png)
+
+<br><br>
+
+### 16. 连接成功
+
+![Download](/Scratch/resource/unit2_11.png)
