@@ -1,7 +1,9 @@
 ﻿# 第三课 积木的搭建
 ### 在这里我们会一步步的搭建我们的智能风扇。
 
-<br><br><br>
+<br>
+[返回第三课](unit3.md)<br>
+<br>
 
 ### 1. 这就是我们的风扇 
 
@@ -68,3 +70,5 @@
 ![Download](/Scratch/resource/unit3_12.png)
 
 <br><br>
+<br>
+[返回第三课](unit3.md)<br>
