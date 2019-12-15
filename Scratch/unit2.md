@@ -96,4 +96,4 @@
 
 ### 16. 连接成功
 
-![Download](/Scratch/resource/unit2_11.png)
+![Download](/Scratch/resource/unit2_12.png)
