@@ -63,20 +63,8 @@
 
 <br><br>
 
-### 2. 步骤1 
+### 11. 添加红外线智能设备
 
-![Download](/Scratch/resource/unit3_02.png)
-
-<br><br>
-
-### 2. 步骤1 
-
-![Download](/Scratch/resource/unit3_02.png)
-
-<br><br>
-
-### 2. 步骤1 
-
-![Download](/Scratch/resource/unit3_02.png)
+![Download](/Scratch/resource/unit3_12.png)
 
 <br><br>
