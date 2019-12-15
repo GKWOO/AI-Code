@@ -1,7 +1,9 @@
 ﻿# 第二课 Scratch Link 的安装
 ### 乐高教育Scratch Link是一个介绍性的发明工具包，你可以用来建立互动机器人和其他创作。您可以将Scratch编程块组合在一起，与您的WeDo 2.0创作进行交互，并添加动画和声音
 
-<br><br><br>
+<br><br>
+![按此返回目录](unit3.md)<br>
+<br><br>
 
 ### 1. 打开链接“https://scratch.mit.edu/wedo”,按Direct download并下载Scratch Link 
 
