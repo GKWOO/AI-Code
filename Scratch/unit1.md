@@ -1,7 +1,7 @@
 ﻿# 第一课 Scratch 的基本应用
 ### 这堂课讲解Scratch的基本语句，通过这些语句实现一个简单的例子。<br>如下图，我们使这只可爱的猫会行走，碰到边缘后会往回走。然后当猫向左时会变颜色，反之不变色。
 <br><br>
-[按此返回目录](unit3.md)<br>
+[按此返回目录](README.md)<br>
 <br>
 ![img](/Scratch/resource/program0.gif)
 
