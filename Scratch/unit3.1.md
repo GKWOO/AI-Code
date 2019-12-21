@@ -65,7 +65,7 @@
 
 <br><br>
 
-### 11. 添加红外线智能设备
+### 11. 添加红外线智能设备并插好数据线
 
 ![Download](/Scratch/resource/unit3_12.png)
 
