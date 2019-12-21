@@ -5,13 +5,13 @@
 [按此返回目录](unit3.md)<br>
 <br>
 
-### 1. 这就是我们的风扇 
+## 这就是我们的风扇 
 
 ![Download](/Scratch/resource/unit3_01.png)
 
 <br><br>
 
-### 2. 步骤1 
+## 步骤1 
 
 ![Download](/Scratch/resource/unit3_02.png)
 
