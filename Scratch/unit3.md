@@ -5,6 +5,6 @@
 ## 课程
 [1.积木搭建](unit3.1.md)<br>
 [2.智能编程](unit3.2.md)<br><br>
-![Download](/Scratch/resource/unit3_01.png)
+![img](/Scratch/resource/unit3_01.png)
 
 

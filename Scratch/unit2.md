@@ -7,97 +7,97 @@
 
 ### 1. 打开链接“https://scratch.mit.edu/wedo”,按Direct download并下载Scratch Link 
 
-![Download](/Scratch/resource/unit2_01.png)
+![img](/Scratch/resource/unit2_01.png)
 
 <br><br>
 
 ### 2. 下载完成后完成后解压文件
 
-![Download](/Scratch/resource/unit2_02.png)
+![img](/Scratch/resource/unit2_02.png)
 
 <br><br>
 
 ### 3. 解压完成后运行msi文件
 
-![Download](/Scratch/resource/unit2_03.png)
+![img](/Scratch/resource/unit2_03.png)
 
 <br><br>
 
 ### 4. 按“next”进行下一步
 
-![Download](/Scratch/resource/unit2_04.png)
+![img](/Scratch/resource/unit2_04.png)
 
 <br><br>
 
 ### 5. 点击“Finish”完成
 
-![Download](/Scratch/resource/unit2_05.png)
+![img](/Scratch/resource/unit2_05.png)
 
 <br><br>
 
 ### 6. 查找“Scratch Link”并运行
 
-![Download](/Scratch/resource/unit2_06.png)
+![img](/Scratch/resource/unit2_06.png)
 
 <br><br>
 
 ### 7. 在运行栏中找到"Scratch Link"表示运行成功
 
-![Download](/Scratch/resource/unit2_07.png)
+![img](/Scratch/resource/unit2_07.png)
 
 <br><br>
 
 ### 8. 打开Scratch点解左下的图标
 
-![Download](/Scratch/resource/unit2_08.png)
+![img](/Scratch/resource/unit2_08.png)
 
 <br><br>
 
 ### 9. 搜索“蓝牙”找到蓝牙设置
 
-![Download](/Scratch/resource/unit2_20.png)
+![img](/Scratch/resource/unit2_20.png)
 
 <br><br>
 
 ### 10. 按“添加蓝牙设备”并连接“LPF2”
 
-![Download](/Scratch/resource/unit2_21.png)
+![img](/Scratch/resource/unit2_21.png)
 
 <br><br>
 
 ### 11. 匹配“LPF2”成功
 
-![Download](/Scratch/resource/unit2_22.png)
+![img](/Scratch/resource/unit2_22.png)
 
 
 <br><br>
 
 ### 12. 打开Scratch点解左下的图标
 
-![Download](/Scratch/resource/unit2_08.png)
+![img](/Scratch/resource/unit2_08.png)
 
 <br><br>
 
 ### 13. 点击 WeDo 2.0
 
-![Download](/Scratch/resource/unit2_09.png)
+![img](/Scratch/resource/unit2_09.png)
 
 <br><br>
 
 ### 14. 长按lego设备的绿色按钮打开设别
 
-![Download](/Scratch/resource/unit2_11.png)
+![img](/Scratch/resource/unit2_11.png)
 
 <br><br>
 
 ### 15. 点击按搜索
 
-![Download](/Scratch/resource/unit2_10.png)
+![img](/Scratch/resource/unit2_10.png)
 
 <br><br>
 
 ### 16. 连接成功
 
-![Download](/Scratch/resource/unit2_12.png)
+![img](/Scratch/resource/unit2_12.png)
 <br>
 [按此返回目录](unit3.md)<br>

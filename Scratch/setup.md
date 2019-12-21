@@ -4,7 +4,7 @@
 
 ### 1. 进入麻省理工学院的网站，点加入Scratch社区； [https://scratch.mit.edu/download/scratch2](https://scratch.mit.edu/download/scratch2) wedo 2.0需要使用Scratch Link去连接蓝牙控制wedo 2.0，而Scratch Link需要Scratch2，因此我们选择安装Scratch2
 
-![Download](/Scratch/resource/setup1.PNG)
+![img](/Scratch/resource/setup1.PNG)
 
 
 <br><br>
